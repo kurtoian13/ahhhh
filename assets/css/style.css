@@ -124,12 +124,12 @@ p {
   width: 100%;
   background: url("../img/hero-bg.jpg");
   position: relative;
-  padding: 120px 0 0 0;
+  padding: 240px 0 0 0;
 }
 
 #hero:before {
   content: "";
-  background: rgba(2, 5, 161, 0.51);
+  background: rgba(2, 5, 161, 0.21);
   position: absolute;
   bottom: 0;
   top: 0;
